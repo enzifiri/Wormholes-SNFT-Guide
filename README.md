@@ -31,8 +31,8 @@ Wormholes Cüzdanı https://www.limino.com/
 ## 2) S-NFTleri takas edebiliyor muyum?
 
 - S-NFTler takas edilmiyor fakat market üzerinden satılabiliyor, takas yapmak istediğiniz kişiye market linkini atıp o şekilde değiş tokuş gerçekleştirebilirsiniz.
-- 
-# Market linki: [ ]([https://t.me/WormholesChainTurkish](https://hub.wormholes.com/c0x97807fd98c40e0237aa1f13cf3e7cedc5f37f23b/#/)
+
+Market Linki: https://hub.wormholes.com/c0x97807fd98c40e0237aa1f13cf3e7cedc5f37f23b/#/
 
 
 ## Ekibin yayınladığı makaleler
