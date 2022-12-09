@@ -1,5 +1,7 @@
 <h1 align="center"> Wormholes S-NFT MINER </h1>
-![image](https://user-images.githubusercontent.com/76253089/206719222-b380e6c9-8fbb-49f7-858e-9ee82172f3bf.png)
+
+![image](https://user-images.githubusercontent.com/76253089/206724037-1e7c94ff-f254-4824-80dc-f6c4135111ab.png)
+
 # Sorularınız için: [Türkiye Telegram Grubu](https://t.me/WormholesChainTurkish)
 
 ## Wormholes cüzdanınıza girip 700 erbmiz var mı diye kontrol ediyoruz varsa işlemlere başlayalım.
@@ -19,15 +21,16 @@ Wormholes Cüzdanı https://www.limino.com/
 ## Benim önerim gelen SNFTleri satmayın, biriksin. Aynı koleksiyona ait 16 nft biriktirebilirseniz snftniz level atlıyor ve geliri daha yüksek oluyor.
 
 
-##S.S.S
-1) SNFtlerin üzerindeki sayılar nedir?
+## S.S.S
+## 1) SNFtlerin üzerindeki sayılar nedir?
+
 -Kırmızı, sarı, yeşil, koleksiyonun numarasını belirtiyor. Level 1e atlatmak için 16 adet aynı koleksiyondan bulmanız gerektiğini söylemiştim. Örnekteki fotoda SNFT
 21,5,16(16) koleksiyonuna ait. Yani benim Level 1 e atlatmak için 21,5,16(1), 21,5,16(2), 21,5,16(3)... 21,5,16(16)ya kadar aynı kartları bulmam gerekiyor. Bulduktan sonra otomatik olarak sentezlenecek ve level 1 SNFTye sahip olabileceksiniz. (Şuanda takas vs yapmanıza gerek yok snftlerin birikmesini bekleyelim)
 ![image](https://user-images.githubusercontent.com/76253089/206721938-b08d63f9-38af-4d0a-9cfc-c497b0ceb804.png)
 
-2) Node ile Snft miner ödülleri farklı mı?
--Nodedaki gelen ödül ile Snft minerlıktan gelen ödül birbirinden farklı olacak. Nodeda bloklardan ERB kazanıyoruz, Snft minerda ise NFTlerden ERB kazanıyoruz. 
 
 ## Ekibin yayınladığı makaleler
+
 Kurulum Makalesi https://market-2.gitbook.io/get-s-nft-by-staking-erb-on-wormholeschain/get-s-nft-by-staking-erb-on-wormholeschain/stake-erb-to-get-s-nft
+
 Wormholes S-NFT Wiki https://medium.com/wormholeschain-network/wormholeschains-s-nft-wiki-4dee01c9544e
