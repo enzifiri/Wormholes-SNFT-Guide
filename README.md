@@ -42,6 +42,7 @@ Market Linki: https://hub.wormholes.com/c0x97807fd98c40e0237aa1f13cf3e7cedc5f37f
 
 ## Ekibin yayınladığı makaleler
 
+Test kuralları ve Ödülleri hakkında detay: https://market-2.gitbook.io/get-s-nft-by-staking-erb-on-wormholeschain/about-test-rewards/instructions-on-the-meteorite-effect-test-rules-and-rewards
 
 Kurulum Makalesi https://market-2.gitbook.io/get-s-nft-by-staking-erb-on-wormholeschain/get-s-nft-by-staking-erb-on-wormholeschain/stake-erb-to-get-s-nft
 
