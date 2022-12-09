@@ -24,12 +24,19 @@ Wormholes Cüzdanı https://www.limino.com/
 ## S.S.S
 ## 1) SNFtlerin üzerindeki sayılar nedir?
 
--Kırmızı, sarı, yeşil, koleksiyonun numarasını belirtiyor. Level 1e atlatmak için 16 adet aynı koleksiyondan bulmanız gerektiğini söylemiştim. Örnekteki fotoda SNFT
+-Kırmızı, sarı, yeşil, koleksiyonun numarasını belirtiyor.Level 0dan Level 1e atlatmak için 16 adet aynı koleksiyondan bulmanız gerektiğini söylemiştim. Örnekteki fotoda SNFT
 21,5,16(16) koleksiyonuna ait. Yani benim Level 1 e atlatmak için 21,5,16(1), 21,5,16(2), 21,5,16(3)... 21,5,16(16)ya kadar aynı kartları bulmam gerekiyor. Bulduktan sonra otomatik olarak sentezlenecek ve level 1 SNFTye sahip olabileceksiniz. (Şuanda takas vs yapmanıza gerek yok snftlerin birikmesini bekleyelim)
 ![image](https://user-images.githubusercontent.com/76253089/206721938-b08d63f9-38af-4d0a-9cfc-c497b0ceb804.png)
 
+## 2) S-NFTleri takas edebiliyor muyum?
+
+- S-NFTler takas edilmiyor fakat market üzerinden satılabiliyor, takas yapmak istediğiniz kişiye market linkini atıp o şekilde değiş tokuş gerçekleştirebilirsiniz.
+- 
+# Market linki: [ ]([https://t.me/WormholesChainTurkish](https://hub.wormholes.com/c0x97807fd98c40e0237aa1f13cf3e7cedc5f37f23b/#/)
+
 
 ## Ekibin yayınladığı makaleler
+
 
 Kurulum Makalesi https://market-2.gitbook.io/get-s-nft-by-staking-erb-on-wormholeschain/get-s-nft-by-staking-erb-on-wormholeschain/stake-erb-to-get-s-nft
 
